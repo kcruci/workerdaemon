@@ -1,0 +1,19 @@
+<keylist>
+	<queen key="userbitmap" desc="user profile queen, sorted by timestamp"></queen>
+    <pair>
+        <cache keyprefix="profile:" desc="redis user profile"></cache>
+        <mysql colname="profile" desc="mysql user profile"></mysql>
+    </pair>
+    <pair>
+        <cache keyprefix="backpack:" desc="redis user back_pack"></cache>
+        <mysql colname="backpack" desc="mysql user back_pack"></mysql>
+    </pair>
+    <pair>
+        <cache keyprefix="growup:" desc="redis user growup"></cache>
+        <mysql colname="growup" desc="mysql user growup"></mysql>
+    </pair>
+    <pair>
+        <cache keyprefix="wallet:" desc="redis user wallet"></cache>
+        <mysql colname="resstr1" desc="mysql user resstr1"></mysql>
+    </pair>
+</keylist>

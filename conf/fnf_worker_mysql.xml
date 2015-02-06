@@ -1,0 +1,26 @@
+<dbconfig>
+	<user desc="crc32(uid)最低1、2位，最低3、4位分表。如uid:12345的45分表，23分库">
+		<db bid="0"  eid="9"  ip="192.168.2.11" port="3307" dbname="db_fnf_0" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="10" eid="19" ip="192.168.2.11" port="3307" dbname="db_fnf_1" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="20" eid="29" ip="192.168.2.11" port="3307" dbname="db_fnf_2" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="30" eid="39" ip="192.168.2.11" port="3307" dbname="db_fnf_3" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="40" eid="49" ip="192.168.2.11" port="3307" dbname="db_fnf_4" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="50" eid="59" ip="192.168.2.11" port="3307" dbname="db_fnf_5" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="60" eid="69" ip="192.168.2.11" port="3307" dbname="db_fnf_6" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="70" eid="79" ip="192.168.2.11" port="3307" dbname="db_fnf_7" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="80" eid="89" ip="192.168.2.11" port="3307" dbname="db_fnf_8" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+		<db bid="90" eid="99" ip="192.168.2.11" port="3307" dbname="db_fnf_9" tbl="t_user_" user="idreamsky" password="idreamsky"></db>
+	</user>
+	<usermap desc="crc32(uid)最低1、2位，最低3、4位分表。如uid:12345的45分表，23分库">
+		<db bid="0"  eid="9"  ip="192.168.2.11" port="3307" dbname="db_fnf_0" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="10" eid="19" ip="192.168.2.11" port="3307" dbname="db_fnf_1" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="20" eid="29" ip="192.168.2.11" port="3307" dbname="db_fnf_2" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="30" eid="39" ip="192.168.2.11" port="3307" dbname="db_fnf_3" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="40" eid="49" ip="192.168.2.11" port="3307" dbname="db_fnf_4" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="50" eid="59" ip="192.168.2.11" port="3307" dbname="db_fnf_5" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="60" eid="69" ip="192.168.2.11" port="3307" dbname="db_fnf_6" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="70" eid="79" ip="192.168.2.11" port="3307" dbname="db_fnf_7" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="80" eid="89" ip="192.168.2.11" port="3307" dbname="db_fnf_8" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+		<db bid="90" eid="99" ip="192.168.2.11" port="3307" dbname="db_fnf_9" tbl="t_usermap_" user="idreamsky" password="idreamsky"></db>
+	</usermap>
+</dbconfig>

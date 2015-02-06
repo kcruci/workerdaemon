@@ -1,0 +1,314 @@
+<cacheconfig  desc="crc32(key)最低1，2位，如12345的45">
+	<user  desc="80 实例 crc32(uid)用户核心数据，分片 ">
+		<redis bid="0" eid="1"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="2" eid="3"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="4" eid="5"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="6" eid="7"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="8" eid="9"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                          
+		<redis bid="10" eid="11"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="12" eid="13"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="14" eid="15"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="16" eid="17"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="18" eid="19"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                          
+		<redis bid="20" eid="21"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="22" eid="23"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="24" eid="25"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="26" eid="27"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="28" eid="29"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                          
+		<redis bid="30" eid="31"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="32" eid="33"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="34" eid="35"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="36" eid="37"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="38" eid="39"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                         
+		<redis bid="40" eid="40"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="41" eid="41"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="42" eid="42"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="43" eid="43"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="44" eid="44"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="45" eid="45"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="46" eid="46"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="47" eid="47"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="48" eid="48"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="49" eid="49"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                         
+		<redis bid="50" eid="50"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="51" eid="51"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="52" eid="52"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="53" eid="53"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="54" eid="54"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="55" eid="55"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="56" eid="56"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="57" eid="57"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="58" eid="58"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="59" eid="59"  password="mxyadk" ip="192.168.0.21" port="20100" />
+	                             
+		<redis bid="60" eid="60"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="61" eid="61"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="62" eid="62"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="63" eid="63"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="64" eid="64"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="65" eid="65"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="66" eid="66"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="67" eid="67"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="68" eid="68"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="69" eid="69"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                       
+		<redis bid="70" eid="70"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="71" eid="71"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="72" eid="72"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="73" eid="73"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="74" eid="74"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="75" eid="75"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="76" eid="76"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="77" eid="77"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="78" eid="78"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="79" eid="79"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                          
+		<redis bid="80" eid="80"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="81" eid="81"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="82" eid="82"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="83" eid="83"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="84" eid="84"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="85" eid="85"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="86" eid="86"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="87" eid="87"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="88" eid="88"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="89" eid="89"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                         
+		<redis bid="90" eid="90"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="91" eid="91"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="92" eid="92"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="93" eid="93"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="94" eid="94"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="95" eid="95"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="96" eid="96"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="97" eid="97"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="98" eid="98"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="99" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+	</user>
+	
+	<loginauth  desc="32 实例，登录状态，分片">
+		<redis bid="0" eid="2" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="3" eid="5" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="6" eid="8" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="9" eid="11"   password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="12" eid="14"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="15" eid="17"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="18" eid="20"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="21" eid="23"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="24" eid="26"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="27" eid="29"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                         
+		<redis bid="30" eid="32"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="33" eid="35"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="36" eid="38"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="39" eid="41"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="42" eid="44"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="45" eid="47"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="48" eid="50"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="51" eid="53"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="54" eid="56"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="57" eid="59"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                       
+		<redis bid="60" eid="62"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="63" eid="65"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="66" eid="68"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="69" eid="71"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="72" eid="74"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="75" eid="77"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="78" eid="80"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="81" eid="83"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="84" eid="87"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="88" eid="91"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                         
+		<redis bid="92" eid="95"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="96" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		
+	</loginauth>
+	
+	
+	<userfriend  desc="32实例，用户关系链好友cache">
+		<redis bid="0" eid="2" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="3" eid="5" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="6" eid="8" 	  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="9" eid="11"   password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="12" eid="14"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="15" eid="17"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="18" eid="20"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="21" eid="23"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="24" eid="26"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="27" eid="29"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                     
+		<redis bid="30" eid="32"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="33" eid="35"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="36" eid="38"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="39" eid="41"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="42" eid="44"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="45" eid="47"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="48" eid="50"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="51" eid="53"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="54" eid="56"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="57" eid="59"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                        
+		<redis bid="60" eid="62"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="63" eid="65"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="66" eid="68"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="69" eid="71"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="72" eid="74"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="75" eid="77"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="78" eid="80"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="81" eid="83"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="84" eid="87"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="88" eid="91"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                       
+		<redis bid="92" eid="95"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="96" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+	</userfriend>
+	
+	<usermail  desc="48实例，邮件list，50条上限">
+	    <redis bid="0" eid="1"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="2" eid="3"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="4" eid="5"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="6" eid="7"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="8" eid="9"    password="mxyadk" ip="192.168.0.21" port="20100" />                  
+		<redis bid="10" eid="11"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="12" eid="13"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="14" eid="15"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="16" eid="17"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="18" eid="19"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                         
+		<redis bid="20" eid="21"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="22" eid="23"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="24" eid="25"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="26" eid="27"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="28" eid="29"  password="mxyadk" ip="192.168.0.21" port="20100" />                
+		<redis bid="30" eid="31"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="32" eid="33"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="34" eid="35"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="36" eid="37"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="38" eid="39"  password="mxyadk" ip="192.168.0.21" port="20100" />   
+		                      
+		<redis bid="40" eid="41"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="42" eid="43"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="44" eid="45"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="46" eid="47"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="48" eid="49"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="50" eid="51"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="52" eid="53"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="54" eid="55"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="56" eid="57"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="58" eid="59"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                        
+		<redis bid="60" eid="61"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="62" eid="63"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="64" eid="65"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="66" eid="67"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="68" eid="69"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="70" eid="71"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="72" eid="73"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="74" eid="75"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="76" eid="77"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="78" eid="79"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                        
+		<redis bid="80" eid="81"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		<redis bid="82" eid="83"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="84" eid="85"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="86" eid="87"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                      
+		<redis bid="88" eid="90"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		<redis bid="91" eid="93"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="94" eid="96"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="97" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+	</usermail>
+	
+	<rankinfo  desc="4主实例，12从实例，信息排行，master slave" >
+		<group bid="0" eid="24">
+			<redis password="mxyadk" ip="192.168.0.21" port="20200" master="1" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20300" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+		</group>
+		<group bid="25" eid="49">
+			<redis password="mxyadk" ip="192.168.0.21" port="20200" master="1" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20300" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+		</group>
+		<group bid="50" eid="74">
+			<redis password="mxyadk" ip="192.168.0.21" port="20200" master="1" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20300" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+		</group>
+		<group bid="75" eid="99">
+			<redis password="mxyadk" ip="192.168.0.21" port="20200" master="1" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20300" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+			<redis password="mxyadk" ip="192.168.0.21" port="20400" master="0" /> 
+		</group>                  
+	</rankinfo>
+
+	<modbitmap  desc="48实例，worker redis bitmap，分片" >
+	    <redis bid="0" eid="1"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="2" eid="3"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="4" eid="5"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="6" eid="7"    password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="8" eid="9"    password="mxyadk" ip="192.168.0.21" port="20100" />                  
+		<redis bid="10" eid="11"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="12" eid="13"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="14" eid="15"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="16" eid="17"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="18" eid="19"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                     
+		<redis bid="20" eid="21"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="22" eid="23"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="24" eid="25"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="26" eid="27"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="28" eid="29"  password="mxyadk" ip="192.168.0.21" port="20100" />                
+		<redis bid="30" eid="31"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="32" eid="33"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="34" eid="35"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="36" eid="37"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="38" eid="39"  password="mxyadk" ip="192.168.0.21" port="20100" />   
+		            
+		<redis bid="40" eid="41"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="42" eid="43"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="44" eid="45"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="46" eid="47"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="48" eid="49"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="50" eid="51"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="52" eid="53"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="54" eid="55"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="56" eid="57"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="58" eid="59"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                         
+		<redis bid="60" eid="61"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="62" eid="63"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="64" eid="65"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="66" eid="67"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="68" eid="69"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="70" eid="71"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="72" eid="73"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="74" eid="75"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="76" eid="77"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="78" eid="79"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		                   
+		<redis bid="80" eid="81"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		<redis bid="82" eid="83"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="84" eid="85"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="86" eid="87"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		                     
+		<redis bid="88" eid="90"  password="mxyadk" ip="192.168.0.21" port="20100" />
+		<redis bid="91" eid="93"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="94" eid="96"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+		<redis bid="97" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+	</modbitmap>
+	
+	<useronline>
+		<redis bid="0" eid="99"  password="mxyadk" ip="192.168.0.21" port="20100" /> 
+	</useronline>
+</cacheconfig>

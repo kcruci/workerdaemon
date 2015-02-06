@@ -1,0 +1,2 @@
+copy webgame/conf/fnf_redis.xml 2 fnf_worker_redis.xml
+copy webgame/conf/fnf_mysql.xml 2 fnf_worker_mysql.xml
