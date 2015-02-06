@@ -1,1 +1,1 @@
-#workerserver
+# workerdaemon
